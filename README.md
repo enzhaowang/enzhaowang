@@ -1,21 +1,11 @@
-## Hi, I'm eric 👋
+## Hi, I'm Eric 👋  
+Full-stack developer building Web2 & Web3 systems.
 
-Full-stack developer building Web2 and Web3 applications.
+### 🧰 Tech Stack
 
-### Tech Stack
+**💻 Web2**  
+Java · Groovy · Spring Boot · Node.js · React · MongoDB · Docker
 
-**Web2 / Full-Stack**
-- Java, Groovy, Spring Boot
-- Node.js, Express
-- React
-- MongoDB, relational databases
-- Docker, RESTful APIs
-
-**Web3 / DeFi**
-- Solidity
-- Foundry, Hardhat
-- Viem, Wagmi
-- OpenZeppelin
-- DeFi primitives: AMM mechanics, liquidity pools, swaps, flash loans
-- Merkle proofs, signature-based flows (EIP-712), multicall
-- Upgradeable contract patterns
+**⛓️ Web3 / DeFi**  
+Solidity · Foundry · Hardhat · Viem · Wagmi · OpenZeppelin  
+AMM · Liquidity · Swaps · Flash Loans · Merkle · EIP-712 · Multicall · Upgradeable
