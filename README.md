@@ -1,4 +1,4 @@
-## Hi, I'm eric 👋  
+## Hi, I'm Eric 👋  
 Full-stack developer building Web2 & Web3 systems.
 
 ### 🧰 Tech Stack
