@@ -22,15 +22,6 @@ Upgradeable Contracts · Multicall · EIP-712
 
 ---
 
-### 🚀 Featured Work
-
-- **Nebula Launchpad** – Upgradeable IDO launchpad protocol  
-- **Merkle NFT Market** – NFT distribution using Merkle proofs  
-- **ERC20 Vesting Contracts** – Token vesting with Foundry  
-- **NFT Event Listener** – Backend service indexing on-chain events
-
----
-
 ### 🌱 Interests
 
 Web3 infrastructure · DeFi protocols · Backend systems interacting with blockchain networks.
