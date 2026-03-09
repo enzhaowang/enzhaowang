@@ -20,10 +20,3 @@ Ethereum · Smart Contracts · The Graph · IPFS
 AMM · Liquidity Pools · Token Vesting · Merkle Trees  
 Upgradeable Contracts · Multicall · EIP-712
 
----
-
-### 🌱 Interests
-
-Web3 infrastructure · DeFi protocols · Backend systems interacting with blockchain networks.
-
-I enjoy building systems that bridge **Web2 backend architecture with Web3 protocols.**
